@@ -1,14 +1,15 @@
 # EGRMS Makers Club
 
-A repository for the EGRMS Maker's Club segment.
+GitHub repository for EGRMS Maker's Club programming segment.
 
-To Start
+-------------------------------------------------------------------------------------
 
--Clone/download the files of the template folder to your computer.
+##To Start:
 
--Open template.html (template/template.html)
-
--Read the comments
+###*Select the lime green *Clone or download* button and select *Download ZIP*.
+###*Open the ZIP file, and drag *template.html* onto the Desktop.
+###*Right click on *template.html* and select *Open with Atom*.
+###*Once it is loaded and opened, find the comments and read them.
 
 Here by mistake? Don't worry. [Go Back!](https://github.com/)
 
