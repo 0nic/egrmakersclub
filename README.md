@@ -8,7 +8,7 @@ GitHub repository for EGRMS Maker's Club programming segment.
 
 - Select the lime green **_Clone or download_** button and select **_Download ZIP_**.
 
-- Open the ZIP file, and drag **_template.html_** onto the Desktop.
+- Open the ZIP file, select the template folder, and drag **_template.html_** onto the Desktop.
 
 - Right click on **_template.html_** and select **_Open with Atom_**.
 
@@ -27,7 +27,7 @@ GitHub repository for EGRMS Maker's Club programming segment.
 - On the menu, select **_Download ZIP_**.
 ![alt text](http://i.imgur.com/57YD7Op.png)
 
-- Open the ZIP file, and drag **_template.html_** onto the Desktop.
+- Open the ZIP file, select the template folder, and drag **_template.html_** onto the Desktop.
 ![demo](http://i.imgur.com/c951ipf.gif)
 
 - Right click on **_template.html_** and select **_Open with Atom_**.
