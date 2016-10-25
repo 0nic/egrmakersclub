@@ -1,16 +1,26 @@
+<!-- Looks like you have finished all the steps!
+Now that you are at this part, try opening a web browser and dragging this file in to it.
+Go ahead and experiment seeing what happens when you change different text! -->
 <!DOCTYPE html>
 <style>
-/*CSS Code, to make the webpage look nice.*/
+/* This is where CSS code goes. This is what makes it look nice. We will work with this later. */
+.btn{
+  color: green;
+}
 </style>
 <html>
     <head>
-        <!--Head Code, won't be shown to the user.-->
-        <title>Template</title>
+        <!--Head Code, the user won't see this.-->
+        <title>Put in your website title here!</title>
     </head>
     <body>
         <h1>Hello, World!</h1>
+        <button class="btn" id="myBtn">Click Me!</button>
     </body>
 </html>
 <script>
-//JS Code, to add interactivness to the webpage.
+//Write JavaScript here, to add functionality to the webpage. We will work with this later.
+document.getElementById("myBtn").addEventListener("click", function(){
+    alert("Hello!");
+});
 </script>
