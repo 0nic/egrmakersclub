@@ -28,10 +28,10 @@ GitHub repository for EGRMS Maker's Club programming segment.
 ![alt text](http://i.imgur.com/57YD7Op.png)
 
 - Open the ZIP file, and drag **_template.html_** onto the Desktop.
-![alt text](http://i.imgur.com/c951ipf.gifv)
+![demo](http://i.imgur.com/c951ipf.gif)
 
 - Right click on **_template.html_** and select **_Open with Atom_**.
-![alt text](http://i.imgur.com/RfERcXF.gifv)
+![demo](http://i.imgur.com/RfERcXF.gif)
 
 - Once it is loaded and opened, find the comments and read them.
-![alt text](http://i.imgur.com/C4Xmh89.gifv)
+![demo](http://i.imgur.com/C4Xmh89.gif)
