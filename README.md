@@ -10,7 +10,7 @@ GitHub repository for EGRMS Maker's Club programming segment.
 
 - Open the ZIP file, select the template folder, and drag **_template.html_** onto the Desktop.
 
-- Right click on **_template.html_** and select **_Open with Atom_**.
+- Double click on **_template.html_** and it will open in a program called **_Atom_**.
 
 - Once it is loaded and opened, find the comments (gray text) and read them.
 
